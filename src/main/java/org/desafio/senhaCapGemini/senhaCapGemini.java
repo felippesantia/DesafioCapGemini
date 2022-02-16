@@ -1,4 +1,4 @@
-package org.desafio.escadaCapGemini;
+package org.desafio.senhaCapGemini;
 
 import java.io.*;
 import java.util.*;
