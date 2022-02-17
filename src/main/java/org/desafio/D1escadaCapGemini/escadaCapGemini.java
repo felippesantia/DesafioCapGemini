@@ -1,4 +1,4 @@
-package org.desafio.escadaCapGemini;
+package org.desafio.D1escadaCapGemini;
 
 public class escadaCapGemini {
 
